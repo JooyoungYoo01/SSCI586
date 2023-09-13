@@ -1,0 +1,21 @@
+OBJECTID, ZIP_CODE, LATITUDE, LONGITUDE,ELEVATION(ft), ADDRESS,CITY,STATE,LOC_NAME
+1,90027,34.118257,-118.300372,1133,2800 E Observatory Rd, Los Angeles,CA,Griffith Observatory
+2,90049,34.077558,-118.474476,896,1200 Getty Center Dr, Los Angeles,CA,The Getty
+3,90036,34.063824,-118.359848,165,5905 Wilshire Blvd, Los Angeles,CA,Los Angeles County Museum of Art
+4,90036,34.071964,-118.357513,188,189 The Grove Dr, Los Angeles,CA,The Grove
+5,90007,34.016846,-118.28883,186,900 Exposition Blvd, Los Angeles,CA,Natural History Museum of Los Angeles County
+6,90037,34.015831,-118.28623,181,700 Exposition Park Dr, Los Angeles,CA,California Science Center
+7,90012,34.06850533,-118.2317999,300,1245 N Spring St, Los Angeles,CA,Los Angeles State Historic Park
+8,90012,34.073893,-118.240001,501,1000 Vin Scully Ave, Los Angeles,CA,Dodger Stadium
+9,90028,34.101537,-118.340043,378,6901 Hollywood Blvd, Los Angeles,CA,Hollywood Walk of Fame
+10,90068,34.112741,-118.338865,572,2301 N Highland Ave, Los Angeles,CA,Hollywood Bowl
+11,90068,34.126919,-118.326103,900,3160 Canyon Lake Dr, Los Angeles,CA,Lake Hollywood Park
+12,90012,34.054487,-118.250559,384,221 S Grand Ave, Los Angeles,CA,The Broad
+13,90039,34.09874117,-118.2610212,456,2300 Silver Lake Blvd, Los Angeles,CA,Silver Lake Meadows
+14,90067,34.05887422,-118.4189883,298,10250 Santa Monica Blvd, Los Angeles,CA,Westfield Century City
+15,90048,34.07546424,-118.3774125,155,8500 Beverly Blvd, Los Angeles,CA,Beverly Center
+16,90015,34.043087,-118.267113,239,1111 S Figueroa St, Los Angeles,CA,Crypto.com Arena
+17,90015,34.04105275,-118.2695188,233,1201 S Figueroa St, Los Angeles,CA,Los Angeles Convention Center
+18,90021,34.03882,-118.234227,251,1375 E 6th St #7, Los Angeles,CA,The Los Angeles Gun Club
+19,90036,34.061951,-118.361427,161,6060 Wilshire Blvd, Los Angeles,CA,Petersen Automotive Museum
+20,90027,34.148434,-118.285821,571,5333 Zoo Dr, Los Angeles,CA,Los Angeles Zoo
